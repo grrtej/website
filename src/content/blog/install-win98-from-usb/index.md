@@ -1,5 +1,5 @@
 ---
-title: "Installing Windows 98 using a USB drive"
+title: "Installing Windows 98 from a USB drive"
 description: "Reviving old tech!"
 date: "2026-02-23"
 tags:
