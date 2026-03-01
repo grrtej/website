@@ -47,7 +47,7 @@ Grab these things to prepare the USB drive:
 
 ### Steps
 
-1. Use the bundled FreeDOS option with Rufus to create a bootable USB drive.
+1. Use the bundled FreeDOS option in Rufus to create a bootable USB drive.
 2. Copy over the four FreeDOS tools and Windows 98 setup files to the USB drive.
 3. Boot from the USB drive.
 4. Use `fdisk.exe` to partition the internal HDD.
